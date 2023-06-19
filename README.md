@@ -6,7 +6,7 @@ Localish is a simple website using 3 models, all CRUD operations, full authentif
 
 Developed with a mobile first approach, the back end uses Node and Express and the front end React.
 
-Developed for market lovers and those who want support the local businesses by creating awarness of the small little markets every visitor should know of your city.
+Developed for market lovers and those who want support the local businesses by creating awareness of the small little markets every visitor should know of your city.
 
 
 ## User Stories
